@@ -5,7 +5,7 @@ Repository ini dibuat untuk memenuhi Tugas Kecil 1 Strategi Algoritma 2025/2026.
 Program ini merupakan sebuah solver untuk permainan Queens LinkedIn pada papan berukuran NxN dengan metode bruteforce. Inti dari permainan maupun program ini adalah untuk menempatkan satu queen pada tiap kolom, baris, dan area warna pada papan. Queen juga tidak bisa ditempatkan bersebelahan dengan queen lainnya, bahkan secara diagonal.
 
 # Requirements dan Instalasi
-Program ini ditulis menggunakan Python 3 dan hanya menggunakan library internal dari Python itu sendiri, serta dapat menggunakan sistem operasi manapun.
+Program ini ditulis menggunakan Python 3.13.0 dan hanya menggunakan library internal dari Python itu sendiri. Program ini dapat dijalankan menggunakan sistem operasi manapun dan oleh Python versi 3 keatas.
 
 # Cara Mengkompilasi Program
 Program ini tak perlu dikompilasi karena Python adalah bahasa interpreted.
