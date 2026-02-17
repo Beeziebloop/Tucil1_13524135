@@ -1,0 +1,10 @@
+A#BB
+CAD#
+#DDB
+CC#A
+
+Isi file sebelumnya:
+AABB
+CADB
+CDDB
+CCDA
