@@ -29,7 +29,7 @@ def solve_game(board, colors, visual_each = 100):
             solution = p
             break
 
-    elapsed = time.time() - start
+    elapsed = (time.time() - start) * 1000 #ubah ke ms
     return solution, iterations, elapsed
 # Alur dari algoritma ini
 # - Generate dulu semua permutasi dari posisi queen yang mungkin untuk tiap baris (misal untuk board 3x3 itu berarti generate permutasi dari [0, 1, 2] yang berarti queen di baris pertama bisa di kolom 0, queen di baris kedua bisa di kolom 1, dan queen di baris ketiga bisa di kolom 2)
